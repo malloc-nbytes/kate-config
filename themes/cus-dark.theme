@@ -1,0 +1,186 @@
+{
+  "_comments": [
+    "A Kate/KSyntaxHighlighting theme modeled after ~/.emacs.d/themes/cus-theme.el.",
+    "The palette intentionally keeps ordinary identifiers and constants at the default foreground."
+  ],
+  "metadata": {
+    "name": "Cus Dark",
+    "revision": 1
+  },
+  "editor-colors": {
+    "BackgroundColor": "#101010",
+    "CodeFolding": "#1c1c1c",
+    "BracketMatching": "#3a3a3a",
+    "CurrentLine": "#1a1a1a",
+    "IconBorder": "#101010",
+    "IndentationLine": "#333333",
+    "LineNumbers": "#777777",
+    "CurrentLineNumber": "#e0e0e0",
+    "MarkBookmark": "#ffdd33",
+    "MarkBreakpointActive": "#ff6666",
+    "MarkBreakpointReached": "#ffdd33",
+    "MarkBreakpointDisabled": "#777777",
+    "MarkExecution": "#7ec0ee",
+    "MarkWarning": "#ffdd33",
+    "MarkError": "#ff6666",
+    "ModifiedLines": "#ffdd33",
+    "ReplaceHighlight": "#7ec0ee",
+    "SavedLines": "#9ece6a",
+    "SearchHighlight": "#ffdd33",
+    "TextSelection": "#3a3a3a",
+    "Separator": "#333333",
+    "SpellChecking": "#ff6666",
+    "TabMarker": "#333333",
+    "TemplateBackground": "#1c1c1c",
+    "TemplatePlaceholder": "#3a3a3a",
+    "TemplateFocusedPlaceholder": "#4a4a4a",
+    "TemplateReadOnlyPlaceholder": "#2a2a2a",
+    "WordWrapMarker": "#333333"
+  },
+  "text-styles": {
+    "Normal": {
+      "text-color": "#e0e0e0",
+      "selected-text-color": "#e0e0e0"
+    },
+    "Keyword": {
+      "text-color": "#ffdd33",
+      "selected-text-color": "#ffdd33",
+      "bold": true
+    },
+    "Function": {
+      "text-color": "#e0e0e0",
+      "selected-text-color": "#e0e0e0"
+    },
+    "Variable": {
+      "text-color": "#e0e0e0",
+      "selected-text-color": "#e0e0e0"
+    },
+    "ControlFlow": {
+      "text-color": "#ffdd33",
+      "selected-text-color": "#ffdd33",
+      "bold": true
+    },
+    "Operator": {
+      "text-color": "#e0e0e0",
+      "selected-text-color": "#e0e0e0"
+    },
+    "BuiltIn": {
+      "text-color": "#bb9af7",
+      "selected-text-color": "#bb9af7",
+      "bold": true
+    },
+    "Extension": {
+      "text-color": "#ffdd33",
+      "selected-text-color": "#ffdd33",
+      "bold": true
+    },
+    "Preprocessor": {
+      "text-color": "#ffdd33",
+      "selected-text-color": "#ffdd33",
+      "bold": true
+    },
+    "Attribute": {
+      "text-color": "#e0e0e0",
+      "selected-text-color": "#e0e0e0"
+    },
+    "Char": {
+      "text-color": "#9ece6a",
+      "selected-text-color": "#9ece6a",
+      "underline": true
+    },
+    "SpecialChar": {
+      "text-color": "#9ece6a",
+      "selected-text-color": "#9ece6a",
+      "underline": true
+    },
+    "String": {
+      "text-color": "#9ece6a",
+      "selected-text-color": "#9ece6a",
+      "underline": true
+    },
+    "VerbatimString": {
+      "text-color": "#9ece6a",
+      "selected-text-color": "#9ece6a",
+      "underline": true
+    },
+    "SpecialString": {
+      "text-color": "#9ece6a",
+      "selected-text-color": "#9ece6a",
+      "underline": true
+    },
+    "Import": {
+      "text-color": "#ffdd33",
+      "selected-text-color": "#ffdd33",
+      "bold": true
+    },
+    "DataType": {
+      "text-color": "#ffdd33",
+      "selected-text-color": "#ffdd33"
+    },
+    "DecVal": {
+      "text-color": "#e0e0e0",
+      "selected-text-color": "#e0e0e0"
+    },
+    "BaseN": {
+      "text-color": "#e0e0e0",
+      "selected-text-color": "#e0e0e0"
+    },
+    "Float": {
+      "text-color": "#e0e0e0",
+      "selected-text-color": "#e0e0e0"
+    },
+    "Constant": {
+      "text-color": "#e0e0e0",
+      "selected-text-color": "#e0e0e0"
+    },
+    "Comment": {
+      "text-color": "#777777",
+      "selected-text-color": "#777777",
+      "italic": true
+    },
+    "Documentation": {
+      "text-color": "#8a8a8a",
+      "selected-text-color": "#8a8a8a",
+      "italic": true
+    },
+    "Annotation": {
+      "text-color": "#ffdd33",
+      "selected-text-color": "#ffdd33",
+      "bold": true
+    },
+    "CommentVar": {
+      "text-color": "#777777",
+      "selected-text-color": "#777777",
+      "italic": true
+    },
+    "RegionMarker": {
+      "text-color": "#ffdd33",
+      "selected-text-color": "#ffdd33",
+      "background-color": "#1c1c1c"
+    },
+    "Information": {
+      "text-color": "#7ec0ee",
+      "selected-text-color": "#7ec0ee"
+    },
+    "Warning": {
+      "text-color": "#ffdd33",
+      "selected-text-color": "#ffdd33",
+      "bold": true
+    },
+    "Alert": {
+      "text-color": "#ff6666",
+      "selected-text-color": "#ff6666",
+      "background-color": "#2a1010",
+      "bold": true
+    },
+    "Error": {
+      "text-color": "#ff6666",
+      "selected-text-color": "#ff6666",
+      "underline": true
+    },
+    "Others": {
+      "text-color": "#e0e0e0",
+      "selected-text-color": "#e0e0e0"
+    }
+  }
+}
